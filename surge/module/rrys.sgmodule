@@ -1,0 +1,6 @@
+#!name=人人影视影视字幕组iOS去广告
+#!desc=人人影视字幕组iOS端APP去除广告，注意APP名称是《人人影视字幕组》不是人人视频
+#!system=ios
+
+[Script]
+http-response http://ios.zmzapi.com/index.php\?a=user_ad requires-body=1,script-path=https://raw.githubusercontent.com/NullNameForGit/RuleList/master/surge/script/zmz.js
