@@ -1,2 +1,3 @@
 # 这个文件存放需要代理的配置
 DOMAIN-SUFFIX,tap.io
+DOMAIN-SUFFIX,jetbrains.com
