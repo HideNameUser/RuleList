@@ -64,4 +64,5 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,me.com
 PROCESS-NAME,cloudd
+PROCESS-NAME,Music
 
