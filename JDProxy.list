@@ -66,4 +66,9 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,live.com
 PROCESS-NAME,cloudd
 PROCESS-NAME,Music
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,qq.com
 
