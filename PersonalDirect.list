@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,polaxiong.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,huawei.com
 PROCESS-NAME,jdNetdisk
 PROCESS-NAME,jdNetdiskTransfer
 PROCESS-NAME,jdUpdate
