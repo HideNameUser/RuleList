@@ -1,0 +1,34 @@
+# 这个文件存放需要直接访问的配置
+DOMAIN-SUFFIX,polarr.co
+DOMAIN-SUFFIX,polaxiong.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,huawei.com
+PROCESS-NAME,jdNetdisk
+PROCESS-NAME,jdNetdiskTransfer
+PROCESS-NAME,jdUpdate
+PROCESS-NAME,企业咚咚
+PROCESS-NAME,微信
+PROCESS-NAME,Mini Program
+PROCESS-NAME,WeChat
+PROCESS-NAME,Microsoft Outlook
+PROCESS-NAME,CcmService
+PROCESS-NAME,HioNetwork
+PROCESS-NAME,HioUpdate
+PROCESS-NAME,HioUpdateMac
+PROCESS-NAME,JDHiOffice
+PROCESS-NAME,StartThirdApp
+PROCESS-NAME,Thunder
+PROCESS-NAME,DownloadService
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,Transmission
+PROCESS-NAME,fdm
+PROCESS-NAME,aria2c
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,START
+PROCESS-NAME,jamf
+PROCESS-NAME,/Applications/wechatwebdevtools.app/*

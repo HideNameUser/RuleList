@@ -1,0 +1,11 @@
+# 这个文件存放需要代理的配置
+DOMAIN-SUFFIX,tap.io
+DOMAIN-SUFFIX,jetbrains.com
+PROCESS-NAME,Telegram
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,theb.ai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,sentry.io
